@@ -1,0 +1,11 @@
+Model Information:
+* title:	Digimon Adventure 02 Digivice
+* source:	https://sketchfab.com/3d-models/digimon-adventure-02-digivice-c0e1c9f657aa4f10a0fa34f11734a7ee
+* author:	kabukidanshii (https://sketchfab.com/kabukidanshii)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Digimon Adventure 02 Digivice" (https://sketchfab.com/3d-models/digimon-adventure-02-digivice-c0e1c9f657aa4f10a0fa34f11734a7ee) by kabukidanshii (https://sketchfab.com/kabukidanshii) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

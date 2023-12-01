@@ -1,31 +1,16 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
-  <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/2.0.8/aframe/build/aframe-ar.js"></script>
-  <!-- Add the Google Model Viewer script -->
-  <script type="module" src="https://unpkg.com/model-viewer@2.7.0/dist/model-viewer.esm.min.mjs"></script>
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
 </head>
 <body>
-  <a-scene embedded arjs="sourceType: webcam; debugUIEnabled: false;">
-    <!-- The marker -->
-    <a-marker type="pattern" url="assets/custom-marker/patt4.patt">
-      <!-- Use the model-viewer element -->
-      <model-viewer
-        src="assets/3d-models/guitarred.glb"
-        ios-src=""
-        alt="A 3D model of a guitar"
-        auto-rotate
-        camera-controls
-        ar
-      ></model-viewer>
-    </a-marker>
-   
-    <!-- Camera and lighting -->
-    <a-entity camera></a-entity>
-    <a-light type="ambient" intensity="2"></a-light>
-  </a-scene>
+  <model-viewer
+    src="assets/3d-models/guitarred.glb"
+    alt="A simple 3D model"
+    camera-controls
+  ></model-viewer>
 </body>
 </html>
